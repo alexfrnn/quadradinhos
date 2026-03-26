@@ -42,5 +42,4 @@ This project was created using the template provided in the [Cloudflare Workers 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
+This project is licensed under the CC0-1.0 license. See the [LICENSE](LICENSE) file for details.
