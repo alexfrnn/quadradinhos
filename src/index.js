@@ -117,7 +117,7 @@ const landing = `<!DOCTYPE html>
     <input type="text" id="text" placeholder="https://workers.dev"></input>
     <div class="button-container">
     <button onclick="generate()">generate</button>
-    <button id="download" style="display:none;" onclick="downloadQR()" alt="Button to download the image with QRCode">Download</button>
+    <button id="download" style="display:none;" onclick="downloadQR()" alt="Button to download the image with QRCode">download</button>
     </div>
     <div class="qr-container">
       <img id="qr" src="#" alt="A picture of a generated QR Code"/>
