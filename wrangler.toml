@@ -2,4 +2,4 @@
 name = "quadradinhos"
 main = "src/index.js"
 compatibility_date = "2024-09-09"
-node_compat = true
+nodejs_compat = true
