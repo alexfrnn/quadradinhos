@@ -113,10 +113,10 @@ const landing = `<!DOCTYPE html>
 <body>
   <div class="container">
     <h1>QR Generator</h1>
-    <p>Click the below button to generate a new QR code. .</p>
+    <p>click the below button to generate a new QR code</p>
     <input type="text" id="text" placeholder="https://workers.dev"></input>
     <div class="button-container">
-    <button onclick="generate()">Generate QR Code</button>
+    <button onclick="generate()">generate</button>
     <button id="download" style="display:none;" onclick="downloadQR()" alt="Button to download the image with QRCode">Download</button>
     </div>
     <div class="qr-container">
